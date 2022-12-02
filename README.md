@@ -7,6 +7,7 @@ From start i knew learning development was going to be quite an exciting journey
 #
 ### Skills
 🐍 PYTHON 
+🐱‍💻 C++
 💻 REACT 
 ⚙ JS 
 ⌨ HTML 
