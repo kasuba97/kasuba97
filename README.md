@@ -17,5 +17,4 @@ From start i knew learning development was going to be quite an exciting journey
 ### Education
 📚 Qubit by Qubit introduction to quantum computing fall 2023
 #
-### 🐱‍🏍 Seeking junior developer entry-level
 [![@kasuba97's Holopin board](https://holopin.me/kasuba97)](https://holopin.io/@kasuba97)
