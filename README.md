@@ -1,4 +1,4 @@
-# Geoffrey Kasuba Schali - Web3 Enthusiast && Quantum Enthusiast
+# Geoffrey Kasuba Sichali - Web3 Enthusiast && Quantum Enthusiast
 
 Greetings! 👋🏾
 
@@ -15,10 +15,6 @@ My journey into the world of development has been a captivating one, particularl
 ⚙️ JS  
 ⌨️ HTML  
 🖌️ CSS  
-
-## Education
-
-📚 Currently enrolled in "Qubit by Qubit: Introduction to Quantum Computing" - Fall 2023
 
 ## Connect with me
 
