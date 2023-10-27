@@ -11,7 +11,8 @@ My journey into the world of development has been a captivating one, particularl
 🐍 PYTHON  
 🌐 TypeScript  
 ⚙️ RUST  
-💻 REACT  
+💻 REACT
+🗒️ Next JS
 ⚙️ JS  
 ⌨️ HTML  
 🖌️ CSS  
