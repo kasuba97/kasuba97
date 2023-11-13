@@ -1,4 +1,4 @@
-# Geoffrey Kasuba Sichali - Web3 Enthusiast && Quantum Enthusiast
+6# Geoffrey Kasuba Sichali - Web3 Enthusiast && Quantum Enthusiast
 
 Greetings! 👋🏾
 
@@ -16,6 +16,7 @@ My journey into the world of development has been a captivating one, particularl
 ⚙️ JS  
 ⌨️ HTML  
 🖌️ CSS  
+📋 php
 
 ## Connect with me
 
