@@ -1,4 +1,4 @@
-6# Geoffrey Kasuba Sichali - Web3 Enthusiast && Quantum Enthusiast
+# Geoffrey Kasuba Sichali - Web3 Enthusiast && Quantum Enthusiast
 
 Greetings! 👋🏾
 
