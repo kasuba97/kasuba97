@@ -18,7 +18,7 @@ My journey into the world of development has been a captivating one, particularl
 ⌨️ HTML  
 🖌️ CSS  
 📋 php
-
+☕Java
 ## Connect with me
 
 You can find my musings and explorations on my Holopin board: [![@kasuba97's Holopin board](https://holopin.me/kasuba97)](https://holopin.io/@kasuba97)
