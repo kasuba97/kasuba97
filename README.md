@@ -14,6 +14,7 @@ My journey into the world of development has been a captivating one, particularl
 ⚓Anchor solana framework 
 💻 REACT
 🗒️ Next JS
+🦁 Nest Js
 ⚙️ JS  
 ⌨️ HTML  
 🖌️ CSS  
